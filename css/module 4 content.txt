@@ -1,0 +1,24 @@
+70.Welcome to Module 4: Introduction to Javascript
+71.Lecture 40.1 - Adjusting Development Environment for Javascript Development
+72.Lecture 40.2 - Where to place Javascript code
+73.Lecture 41.1 - Defining Variables, Functions and Scope
+74.Lecture 41.2 - Defining Variables, Functions and Scope
+75.Lecture 42.1 - Javascript Types
+76.Lecture 42.2 - Javascript Types
+77.Lecture 43.1 - Common Language Constructs
+78.Lecture 43.2 - Common Language Constructs
+79.Lecture 43.3 - Common Language Constructs
+80.Lecture 44 - Handling Default Values
+81.Lecture 45.1 - Creating Objects Using 'new Object()' Syntax
+82.Lecture 45.2 - Creating Object Using Object Literal Syntax
+83.Lecture 46 - Functions Explained
+84.Lecture 47.1 - Passing Variables by Value vs. by Reference
+85.Lecture 47.2 - Passing Variables by Value vs. by Reference
+86.Lecture 48 - Function Constructors, prototype, and the 'this' Keyword
+87.Lecture 49 - Object Literals and the 'this' Keyword
+88.Lecture 50.1 - Arrays
+89.Lecture 50.2 - Arrays
+90.Lecture 51 - Closures
+91.Lecture 52.1 - Fake Namespaces
+92.Lecture 52.2 - Immediately Invoked Function Expressions (IIFEs)
+93.Module 4 Wrap-Up
